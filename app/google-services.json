@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520463197226",
+    "project_id": "appmovil2026",
+    "storage_bucket": "appmovil2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520463197226:android:7083acd5389894e0f88f53",
+        "android_client_info": {
+          "package_name": "com.example.appmovil04"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4z5KuxnvQZSVBdyI8Fxno3_KhI0rdNm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
